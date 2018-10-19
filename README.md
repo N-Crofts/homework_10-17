@@ -1,1 +1,5 @@
-# homework_10-17
+## CodeAcademy Ruby Tutorial
+
+#### Screenshot for homework:
+
+<img src="ca_ruby.png">
